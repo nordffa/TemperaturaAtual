@@ -23,7 +23,7 @@ def pausar_tela():
 
 
 def limpar_tela():
-    os.system("cls")
+    os.system("CLS")
 
 
 def pular_linha():
