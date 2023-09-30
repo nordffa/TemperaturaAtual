@@ -3,7 +3,7 @@ import os
 
 
 def config_video():
-    os.system("mode con cols=50")
+    os.system("mode con cols=70")
     os.system("mode con lines=10")
     os.system("title Temperatura Atual")
 
